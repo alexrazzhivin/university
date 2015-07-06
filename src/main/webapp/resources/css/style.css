@@ -1,0 +1,27 @@
+body
+{
+    margin: 0;
+}
+
+#subjects_grid .dhx_sub_row {
+    height: auto !important;
+    width: auto !important;
+    left: auto !important;
+}
+
+.grid_container
+{
+    width: 100%;
+}
+
+.grid_header
+{
+    text-align: center;
+    height: auto;
+}
+
+.grid
+{
+    margin: 10px;
+    height: 400px;
+}
